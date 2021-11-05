@@ -1,0 +1,12 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Alura\\Fp\\": "src/"
+        }
+    },
+    "require": {
+        "ext-mbstring": "*",
+        "igorw/compose": "^1.0",
+        "react/partial": "^3.0"
+    }
+}
